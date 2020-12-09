@@ -1,0 +1,7 @@
+{
+  "verbose": true,
+  "ignore": [".git", ".tscache", "node_modules", "dist", ".vscode"],
+  "watch": ["src"],
+  "ext": "ts",
+  "exec": "npm run dev"
+}
